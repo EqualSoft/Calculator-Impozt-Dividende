@@ -1,6 +1,8 @@
 # Calculator-Impozt-Dividende
 Programul de Calcul Impozit Dividende reprezintă o soluție inovatoare și eficientă pentruProgramul de Calcul Impozit Dividende reprezintă o soluție inovatoare și eficientă pentru gestionarea și evaluarea impozitelor asociate dividendelor. Conceput pentru a satisface nevoile persoanelor juridice și fizice care primesc dividende, acest program oferă o abordare simplificată, dar robustă, pentru calculul și raportarea impozitului corespunzător.
 
+![image](https://github.com/EqualSoft/Calculator-Impozt-Dividende/assets/5709206/6effd93b-7c85-476b-a7a1-928caf9268f2)
+
 Caracteristici Cheie:
 
     Calcul Automat și Precis: Programul asigură un calcul automat și precis al impozitului datorat pentru dividendele primite. Utilizatorii beneficiază de precizie în determinarea obligațiilor fiscale, reducând riscul erorilor.

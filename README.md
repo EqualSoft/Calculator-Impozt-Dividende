@@ -26,3 +26,5 @@ Beneficii:
 
 Programul de Calcul Impozit Dividende reprezintă un partener esențial în gestionarea eficientă a aspectelor fiscale legate de dividende, contribuind la optimizarea proceselor și la evitarea neclarităților fiscale.
 Proiect început 
+
+In lucru: afisare nr, versiune in toolbar.
